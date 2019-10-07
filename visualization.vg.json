@@ -60,7 +60,7 @@ https://vega.github.io/editor/#/examples/vega/bar-chart
         },
                 {
           "game": "g13",
-          "diff": 3
+          "diff": -3
         }
       ]
     }
