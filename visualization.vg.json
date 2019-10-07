@@ -53,6 +53,14 @@ https://vega.github.io/editor/#/examples/vega/bar-chart
                 {
           "game": "g11",
           "diff": 6
+        },
+                {
+          "game": "g12",
+          "diff": 0
+        },
+                {
+          "game": "g13",
+          "diff": 3
         }
       ]
     }
