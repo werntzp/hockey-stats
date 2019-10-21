@@ -1,6 +1,3 @@
-https://vega.github.io/editor/#/examples/vega/bar-chart
-
-
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
   "width": 150,
@@ -69,6 +66,22 @@ https://vega.github.io/editor/#/examples/vega/bar-chart
                 {
           "game": "g15",
           "diff": -3
+        },
+                {
+          "game": "g16",
+          "diff": 2
+        },
+                {
+          "game": "g17",
+          "diff": 1
+        },
+                {
+          "game": "g18",
+          "diff": -5
+        },
+                {
+          "game": "g19",
+          "diff": 4
         }
       ]
     }
