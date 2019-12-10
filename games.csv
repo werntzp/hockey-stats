@@ -22,7 +22,7 @@ game,date,opp,abbrev,loc,axscore,oppscore
 21,10/27/19,Tri-City Eagles,TCE,a,10,0
 22,11/2/19,Team Philadelphia,TP,a,4,3
 23,11/3/19,Team Philadelphia,TP,a,7,2
-24,11/3/19,Montgomery Blue Devils,MBD,a,3,2
+24,11/3/19,Montgomery Blue Devils Gold,MBD,a,3,2
 25,11/9/19,Delco Phantoms,DP,h,3,1
 26,11/9/19,Delco Phantoms,DP,h,0,5
 27,11/10/19,Reston Raiders,RR,h,4,3
@@ -33,3 +33,5 @@ game,date,opp,abbrev,loc,axscore,oppscore
 32,11/23/19,Rochester Monarchs,RM,h,3,2
 33,11/24/19,Utica Jr Commets,UC,a,1,0
 34,11/24/19,Rochester Monarchs,RM,h,0,3
+35,12/7/19,Montgomery Blue Devils Blue,MBD,h,0,4
+36,12/8/19,Tri-City Eagles,TCE,h,4,0
