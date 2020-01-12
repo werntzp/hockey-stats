@@ -47,7 +47,7 @@ game,team,period,time,type
 11,a,2,10:40,Trip
 11,a,2,05:05,Trip
 11,a,3,06:59,Interference
-12,a,1,00:542,Interference
+12,a,1,00:54,Interference
 12,o,3,04:24,
 13,o,1,11:02,
 13,a,2,00:54,Trip
@@ -186,3 +186,9 @@ game,team,period,time,type
 40,a,3,4:03,Check
 40,o,3,2:38, 
 40,o,3,00:22, 
+41,a,2,05:22,Head Contact
+41,a,2,05:22,10-Minute
+41,o,3,12:04,
+41,a,3,05:15,Hit from Behind
+41,a,3,05:15,10-Minute
+41,a,3,00:22,Elbow
