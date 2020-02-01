@@ -1,56 +1,52 @@
-game,date,opp,abbrev,loc,axscore,oppscore
-1,9/5/19,Hollydell Hurricanes,HH,h,6,3
-2,9/5/19,Hollydell Hurricanes,HH,h,6,1
-3,9/13/19,West Dundee Leafs,WDL,h,4,6
-4,9/13/19,Winnetka Warriors,WW,a,3,7 
-5,9/14/19,Joliet Jaguars,JJ,h,8,2
-6,9/14/19,Orland Park Vikings,OPV,a,5,0
-7,9/22/19,Tri-City Eagles,TCE,a,7,0
-8,9/28/19,Hollydell Hurricanes,HH,a,3,0
-9,9/28/19,Red Bank Generals,RBG,a,4,2
-10,9/29/19,Red Bank Generals,RBG,a,0,3
-11,9/29/19,Hollydell Hurricanes,HH,a,8,2
-12,10/5/19,Howard Huskies,HH,h,2,2
-13,10/6/19,Reston Raiders,RR,a,3,6
-14,10/12/19,Delco Phantoms,DP,a,1,0
-15,10/12/19,Delco Phantoms,DP,a,2,5
-16,10/18/19,Howard Huskies,HH,h,4,2
-17,10/19/19,Delco Phantoms,DP,a,3,2
-18,10/19/19,Ramapo Saints,RS,h,0,5
-19,10/20/19,Lehigh Valley Phantoms,LVP,a,6,2
-20,10/26/19,Montgomery Blue Devils Blue,MBD,h,3,5
-21,10/27/19,Tri-City Eagles,TCE,a,10,0
-22,11/2/19,Team Philadelphia,TP,a,4,3
-23,11/3/19,Team Philadelphia,TP,a,7,2
-24,11/3/19,Montgomery Blue Devils Gold,MBD,a,3,2
-25,11/9/19,Delco Phantoms,DP,h,3,1
-26,11/9/19,Delco Phantoms,DP,h,0,5
-27,11/10/19,Reston Raiders,RR,h,4,3
-28,11/16/19,Hampton Roads Whalers,HRW,a,5,2
-29,11/17/19,Hampton Roads Whalers,HRW,a,2,4
-30,11/22/19,Monroe County Eagles,MCE,a,3,3
-31,11/22/19,Buffalo Regals,BR,a,1,2
-32,11/23/19,Rochester Monarchs,RM,h,3,2
-33,11/24/19,Utica Jr Comets,UC,a,1,0
-34,11/24/19,Rochester Monarchs,RM,h,0,3
-35,12/7/19,Montgomery Blue Devils Blue,MBD,h,0,4
-36,12/8/19,Tri-City Eagles,TCE,h,4,0
-37,12/14/19,Red Bank Generals,RBG,h,4,3
-38,12/15/19,Red Bank Generals,RBG,h,2,3
-39,1/4/20,Reston Raiders,RR,h,6,4
-40,1/5/20,Montgomery Blue Devils Gold,MBD,a,3,2
-41,1/11/20,Montgomery Blue Devils Blue,MBD,a,1,9
-42,1/17/20,Boston Jr Penguins,BJP,a,2,1
-43,1/17/20,Woodbridge Wolverines,WW,a,0,3
-44,1/18/20,Bay State Breakers T1 White,BSB,a,5,1
-45,1/19/20,Assabet Patriots Elite,APE,a,3,7
-46,1/25/20,Hampton Roads Whalers,HRW,h,4,9
-47,1/25/20,Hampton Roads Whalers,HRW,h,3,3
-48,1/26/20,Carolina Jr Hurricanes,CJH,h,4,5
-49,1/31/20,Red Bank Generals,RBG,a,3,5
-50,1/31/20,Long Island Arrows,LIA,a,8,5
-51,1/31/20,Ramapo Saints,RS,a,2,1
-52,2/1/20,Delco Phantoms,DP,a,0,0
-
-
-
+game,date,opp,abbrev,loc,axscore,oppscore,goalie
+1,9/5/19,Hollydell Hurricanes,HH,h,6,3,g
+2,9/5/19,Hollydell Hurricanes,HH,h,6,1,l
+3,9/13/19,West Dundee Leafs,WDL,h,4,6,g
+4,9/13/19,Winnetka Warriors,WW,a,3,7,l 
+5,9/14/19,Joliet Jaguars,JJ,h,8,2,g
+6,9/14/19,Orland Park Vikings,OPV,a,5,0,l
+7,9/22/19,Tri-City Eagles,TCE,a,7,0,g
+8,9/28/19,Hollydell Hurricanes,HH,a,3,0,l
+9,9/28/19,Red Bank Generals,RBG,a,4,2,g
+10,9/29/19,Red Bank Generals,RBG,a,0,3,l
+11,9/29/19,Hollydell Hurricanes,HH,a,8,2,g
+12,10/5/19,Howard Huskies,HH,h,2,2,l
+13,10/6/19,Reston Raiders,RR,a,3,6,g
+14,10/12/19,Delco Phantoms,DP,a,1,0,l
+15,10/12/19,Delco Phantoms,DP,a,2,5,l
+16,10/18/19,Howard Huskies,HH,h,4,2,g
+17,10/19/19,Delco Phantoms,DP,a,3,2,l
+18,10/19/19,Ramapo Saints,RS,h,0,5,g
+19,10/20/19,Lehigh Valley Phantoms,LVP,a,6,2,l
+20,10/26/19,Montgomery Blue Devils Blue,MBD,h,3,5,g
+21,10/27/19,Tri-City Eagles,TCE,a,10,0,l
+22,11/2/19,Team Philadelphia,TP,a,4,3,g
+23,11/3/19,Team Philadelphia,TP,a,7,2,l
+24,11/3/19,Montgomery Blue Devils Gold,MBD,a,3,2,g
+25,11/9/19,Delco Phantoms,DP,h,3,1,l
+26,11/9/19,Delco Phantoms,DP,h,0,5,g
+27,11/10/19,Reston Raiders,RR,h,4,3,l
+28,11/16/19,Hampton Roads Whalers,HRW,a,5,2,g
+29,11/17/19,Hampton Roads Whalers,HRW,a,2,4,l
+30,11/22/19,Monroe County Eagles,MCE,a,3,3,g
+31,11/22/19,Buffalo Regals,BR,a,1,2,l
+32,11/23/19,Rochester Monarchs,RM,h,3,2,g
+33,11/24/19,Utica Jr Comets,UC,a,1,0,l
+34,11/24/19,Rochester Monarchs,RM,h,0,3,g
+35,12/7/19,Montgomery Blue Devils Blue,MBD,h,0,4,l
+36,12/8/19,Tri-City Eagles,TCE,h,4,0,g
+37,12/14/19,Red Bank Generals,RBG,h,4,3,l
+38,12/15/19,Red Bank Generals,RBG,h,2,3,g
+39,1/4/20,Reston Raiders,RR,h,6,4,l
+40,1/5/20,Montgomery Blue Devils Gold,MBD,a,3,2,g
+41,1/11/20,Montgomery Blue Devils Blue,MBD,a,1,9,l
+42,1/17/20,Boston Jr Penguins,BJP,a,2,1,g
+43,1/17/20,Woodbridge Wolverines,WW,a,0,3,l
+44,1/18/20,Bay State Breakers T1 White,BSB,a,5,1,g
+45,1/19/20,Assabet Patriots Elite,APE,a,3,7,l
+46,1/25/20,Hampton Roads Whalers,HRW,h,4,9,g
+47,1/25/20,Hampton Roads Whalers,HRW,h,3,3,l
+48,1/26/20,Carolina Jr Hurricanes,CJH,h,4,5,g
+49,1/31/20,Red Bank Generals,RBG,a,3,5,l
+50,1/31/20,Long Island Arrows,LIA,a,8,5,g
+51,1/31/20,Ramapo Saints,RS,a,2,1,l
