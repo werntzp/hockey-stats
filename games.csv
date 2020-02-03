@@ -1,10 +1,10 @@
 game,date,opp,abbrev,location,axscore,oppscore,goalie,league
 1,9/5/19,Hollydell Hurricanes,HH,h,6,3,g,e
 2,9/5/19,Hollydell Hurricanes,HH,h,6,1,l,e
-3,9/13/19,West Dundee Leafs,WDL,h,4,6,g,x
-4,9/13/19,Winnetka Warriors,WW,a,3,7,l,x
-5,9/14/19,Joliet Jaguars,JJ,h,8,2,g,x
-6,9/14/19,Orland Park Vikings,OPV,a,5,0,l,x
+3,9/13/19,West Dundee Leafs,WDL,h,4,6,g,k
+4,9/13/19,Winnetka Warriors,WW,a,3,7,l,k
+5,9/14/19,Joliet Jaguars,JJ,h,8,2,g,k
+6,9/14/19,Orland Park Vikings,OPV,a,5,0,l,k
 7,9/22/19,Tri-City Eagles,TCE,a,7,0,g,c
 8,9/28/19,Hollydell Hurricanes,HH,a,3,0,l,e
 9,9/28/19,Red Bank Generals,RBG,a,4,2,g,e
@@ -28,11 +28,11 @@ game,date,opp,abbrev,location,axscore,oppscore,goalie,league
 27,11/10/19,Reston Raiders,RR,h,4,3,l,c
 28,11/16/19,Hampton Roads Whalers,HRW,a,5,2,g,x
 29,11/17/19,Hampton Roads Whalers,HRW,a,2,4,l,c
-30,11/22/19,Monroe County Eagles,MCE,a,3,3,g,x
-31,11/22/19,Buffalo Regals,BR,a,1,2,l,x
-32,11/23/19,Rochester Monarchs,RM,h,3,2,g,x
-33,11/24/19,Utica Jr Comets,UC,a,1,0,l,x
-34,11/24/19,Rochester Monarchs,RM,h,0,3,g,x
+30,11/22/19,Monroe County Eagles,MCE,a,3,3,g,b
+31,11/22/19,Buffalo Regals,BR,a,1,2,l,b
+32,11/23/19,Rochester Monarchs,RM,h,3,2,g,b
+33,11/24/19,Utica Jr Comets,UC,a,1,0,l,b
+34,11/24/19,Rochester Monarchs,RM,h,0,3,g,b
 35,12/7/19,Montgomery Blue Devils Blue,MBD,h,0,4,l,c
 36,12/8/19,Tri-City Eagles,TCE,h,4,0,g,c
 37,12/14/19,Red Bank Generals,RBG,h,4,3,l,e
@@ -40,10 +40,10 @@ game,date,opp,abbrev,location,axscore,oppscore,goalie,league
 39,1/4/20,Reston Raiders,RR,h,6,4,l,c
 40,1/5/20,Montgomery Blue Devils Gold,MBD,a,3,2,g,c
 41,1/11/20,Montgomery Blue Devils Blue,MBD,a,1,9,l,c
-42,1/17/20,Boston Jr Penguins,BJP,a,2,1,g,x
-43,1/17/20,Woodbridge Wolverines,WW,a,0,3,l,x
-44,1/18/20,Bay State Breakers T1 White,BSB,a,5,1,g,x
-45,1/19/20,Assabet Patriots Elite,APE,a,3,7,l,x
+42,1/17/20,Boston Jr Penguins,BJP,a,2,1,g,p
+43,1/17/20,Woodbridge Wolverines,WW,a,0,3,l,p
+44,1/18/20,Bay State Breakers T1 White,BSB,a,5,1,g,p
+45,1/19/20,Assabet Patriots Elite,APE,a,3,7,l,p
 46,1/25/20,Hampton Roads Whalers,HRW,h,4,9,g,c
 47,1/25/20,Hampton Roads Whalers,HRW,h,3,3,l,c
 48,1/26/20,Carolina Jr Hurricanes,CJH,h,4,5,g,x
