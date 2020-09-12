@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 325,
+  "width": 250,
   "height": 40,
   "padding": 0,
   "data": [
@@ -13,239 +13,59 @@
         },
         {
           "game": "g2",
-          "diff": 5
+          "diff": 0
         },
         {
           "game": "g3",
-          "diff": -2
+          "diff": 0
         },
         {
           "game": "g4",
-          "diff": -4
+          "diff": 0
         },
         {
           "game": "g5",
-          "diff": 6
+          "diff": 0
         },
         {
           "game": "g6",
-          "diff": 5
+          "diff": 0
         },
         {
           "game": "g7",
-          "diff": 7
+          "diff": 0
         },
         {
           "game": "g8",
-          "diff": 3
+          "diff": 0
         },
         {
           "game": "g9",
-          "diff": 2
+          "diff": 0
         },
-                {
+        {
           "game": "g10",
-          "diff": -3
+          "diff": 0
         },
-                {
+        {
           "game": "g11",
-          "diff": 6
+          "diff": 0
         },
-                {
+        {
           "game": "g12",
           "diff": 0
         },
-                {
+        {
           "game": "g13",
-          "diff": -3
+          "diff": 0
         },
-                {
+        {
           "game": "g14",
-          "diff": 1
+          "diff": 0
         },
-                {
+        {
           "game": "g15",
-          "diff": -3
-        },
-                {
-          "game": "g16",
-          "diff": 2
-        },
-                {
-          "game": "g17",
-          "diff": 1
-        },
-                {
-          "game": "g18",
-          "diff": -5
-        },
-                {
-          "game": "g19",
-          "diff": 4
-        },
-                {
-          "game": "g20",
-          "diff": -2
-        },
-                {
-          "game": "g21",
-          "diff": 10
-        },
-                {
-          "game": "g22",
-          "diff": 1
-        },
-                {
-          "game": "g23",
-          "diff": 5
-        },
-                {
-          "game": "g24",
-          "diff": 1
-        },
-                {
-          "game": "g25",
-          "diff": 2
-        },
-                {
-          "game": "g26",
-          "diff": -5
-        },
-                {
-          "game": "g27",
-          "diff": 1
-        },
-                {
-          "game": "g28",
-          "diff": 3
-        },
-                {
-          "game": "g29",
-          "diff": -2
-        },
-                {
-          "game": "g30",
           "diff": 0
-        },
-                {
-          "game": "g31",
-          "diff": -1
-        },
-                {
-          "game": "g32",
-          "diff": 1
-        },
-                {
-          "game": "g33",
-          "diff": 1
-        },
-                {
-          "game": "g34",
-          "diff": -3
-        },
-                {
-          "game": "g35",
-          "diff": -4
-        },
-                {
-          "game": "g36",
-          "diff": 4
-        },
-                {
-          "game": "g37",
-          "diff": 1
-        },
-                {
-          "game": "g38",
-          "diff": -1
-        },
-                {
-          "game": "g39",
-          "diff": 2
-        },
-                {
-          "game": "g40",
-          "diff": 1
-        },
-                {
-          "game": "g41",
-          "diff": -8
-        },
-                {
-          "game": "g42",
-          "diff": 1
-        },
-                {
-          "game": "g43",
-          "diff": -3
-        },
-                {
-          "game": "g44",
-          "diff": 4
-        },
-                {
-          "game": "g45",
-          "diff": -4
-        },
-                {
-          "game": "g46",
-          "diff": -5
-        },
-                {
-          "game": "g47",
-          "diff": 0
-        },
-                {
-          "game": "g48",
-          "diff": -1
-        },
-                {
-          "game": "g49",
-          "diff": -2
-        },
-                {
-          "game": "g50",
-          "diff": 3
-        },
-                {
-          "game": "g51",
-          "diff": 1
-        },
-                {
-          "game": "g52",
-          "diff": -1
-        },
-                {
-          "game": "g53",
-          "diff": -5
-        },
-                {
-          "game": "g54",
-          "diff": -1
-        },
-                {
-          "game": "g55",
-          "diff": -4
-        },
-                {
-          "game": "g56",
-          "diff": 7
-        },
-                {
-          "game": "g57",
-          "diff": 13
-        },
-                {
-          "game": "g58",
-          "diff": 6
-        },
-                {
-          "game": "g59",
-          "diff": 13
-        },
-                {
-          "game": "g60",
-          "diff": 7
         }
 
       ]
