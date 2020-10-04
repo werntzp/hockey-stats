@@ -21,11 +21,11 @@
         },
         {
           "game": "g4",
-          "diff": 0
+          "diff": -1
         },
         {
           "game": "g5",
-          "diff": 0
+          "diff": 7
         },
         {
           "game": "g6",
@@ -33,11 +33,11 @@
         },
         {
           "game": "g7",
-          "diff": 0
+          "diff": 2
         },
         {
           "game": "g8",
-          "diff": 0
+          "diff": -3
         },
         {
           "game": "g9",
