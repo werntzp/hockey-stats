@@ -1,24 +1,24 @@
 game,date,opp,abbrev,location,axscore,oppscore,goalie,league
-1,9/12/20,Montgomery Blue Devils Gold,MBD,h,5,2,g,o
-2,9/19/20,St. James,STJ,a,4,4,g,o
-3,9/19/20,Piedmont Predators,PP,a,5,3,g,o
-4,9/26/20,Hampton Roads Whalers,HRW,a,2,3,g,o
-5,9/26/20,Carolina Jr Hurricanes,CJH,a,2,9,g,o
-6,9/27/20,Hampton Roads Whalers,HRW,a,5,5,g,o
-7,10/3/20,Piedmont Predators,PP,h,4,2,g,o
-8,10/4/20,Hagerstown Bulldogs,HB,h,0,3,g,o
-9,10/9/20,Hunstville Chargers,HC,a,0,2,g,t
-10,10/9/20,Pred Selects,PS,a,6,2,g,t
-11,10/10/20,Jr  Predators,JP,a,0,6,g,t
-12,10/10/20,Atlanta Fire,AF,a,0,7,g,t
-13,10/18/20,Caps Acdemy White,CAW,h,6,1,g,o
-14,10/23/20,NJ Stars,NJS,a,6,5,g,e
-15,10/23/20,CT Riverhawks,CTR,a,0,5,g,e
-16,10/24/20,NJ Colts,NJC,a,5,2,g,e
-17,10/24/20,LI Arrows,LIA,a,3,5,g,e
-18,10/31/20,Montgomery Blue Devils Blue,MBD,a,2,1,g,o
-19,11/1/20,Maryland Black Bears,BB,h,3,2,g,o
-20,11/7/20,Richmond Generals,RG,h,1,0,g,c
-21,11/7/20,Richmond Generals,RG,h,4,2,g,e
-22,11/8/20,Potomac Patriots,PP,a,3,4,g,c
-23,11/15/20,Caps Academy White,CAW,h,3,4,g,c
+1,9/12/20,Montgomery Blue Devils 12U A Gold,MBD,h,5,2,g,o
+2,9/19/20,St. James 12U A,STJ,a,4,4,g,o
+3,9/19/20,Piedmont Predators 12U A,PP,a,5,3,g,o
+4,9/26/20,Hampton Roads  Whalers 11U AA,HRW,a,2,3,g,o
+5,9/26/20,Carolina Jr Hurricanes 11U AAA,CJH,a,2,9,g,o
+6,9/27/20,Hampton Roads  Whalers 11U AA,HRW,a,5,5,g,o
+7,10/3/20,Piedmont Predators 12U A,PP,h,4,2,g,o
+8,10/4/20,Hagerstown Bulldogs 12U A,HB,h,0,3,g,o
+9,10/9/20,NAHA Chargers 12U A,HC,a,0,2,g,t
+10,10/9/20,Preds Select 12U A,PS,a,6,2,g,t
+11,10/10/20,Jr Preds 11U AA,JP,a,0,6,g,t
+12,10/10/20,Atlanta Fire 11U AA,AF,a,0,7,g,t
+13,10/18/20,Caps Academy 12U A White,CAW,h,6,1,g,o
+14,10/23/20,NJ Stars 11U A,NJS,a,6,5,g,e
+15,10/23/20,CT Riverhawks 11U AA,CTR,a,0,5,g,e
+16,10/24/20,Jersey Colts 11U A,NJC,a,5,2,g,e
+17,10/24/20,Long Island Arrows 12U A,LIA,a,3,5,g,e
+18,10/31/20,Montgomery Blue Devils 12U A Blue,MBD,a,2,1,g,o
+19,11/1/20,Maryland Black Bears 12U A,BB,h,3,2,g,o
+20,11/7/20,Richmond Generals 11U A,RG,h,1,0,g,c
+21,11/7/20,Richmond Generals 11U A,RG,h,4,2,g,e
+22,11/8/20,Potomac Patriots 12U A,PP,a,3,4,g,c
+23,11/15/20,Caps Academy 12U A White,CAW,h,3,4,g,c
