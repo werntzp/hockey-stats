@@ -18,8 +18,11 @@ game,date,opp,abbrev,location,axscore,oppscore,goalie,league
 17,10/24/20,Long Island Arrows 12U A,LIA,a,3,5,g,e
 18,10/31/20,Montgomery Blue Devils 12U A Blue,MBD,a,2,1,g,o
 19,11/1/20,Maryland Black Bears 12U A,BB,h,3,2,g,o
-20,11/7/20,Richmond Generals 11U A,RG,h,1,0,g,c
-21,11/7/20,Richmond Generals 11U A,RG,h,4,2,g,e
+20,11/7/20,Richmond Generals 12U A,RG,h,1,0,g,c
+21,11/7/20,Richmond Generals 12U A,RG,h,4,2,g,e
 22,11/8/20,Potomac Patriots 12U A,PP,a,3,4,g,c
 23,11/15/20,Caps Academy 12U A White,CAW,h,3,4,g,c
 24,12/6/20,Reston Raiders 12U UA,RR,h,1,7,g,c
+25,12/12/20,Richmond Generals 12U A,RG,a,6,1,g,c
+26,12/12/20,Richmond Generals 12U A,RG,a,6,3,g,e
+
