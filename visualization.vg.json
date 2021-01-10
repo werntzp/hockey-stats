@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 225,
+  "width": 250,
   "height": 40,
   "padding": 0,
   "data": [
@@ -122,7 +122,11 @@
         {
           "game": "g29",
           "diff": 1
-        }                             
+        },
+        {
+          "game": "g30",
+          "diff": -5
+        }                               
       ]
     }
   ],
