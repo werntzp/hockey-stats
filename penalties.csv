@@ -164,5 +164,7 @@ game,team,period,time,type
 36,o,2,01:00,
 36,a,2,01:00,Rough
 36,o,3,03:00,
+37,a,3,12:00,Trip
+37,o,3,05:00,
 
 
