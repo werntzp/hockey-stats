@@ -25,11 +25,11 @@ game,date,opp,abbrev,location,axscore,oppscore,goalie,league
 24,12/6/20,Reston Raiders 11U A Blue,RRB,h,1,7,g,c
 25,12/12/20,Richmond Generals 12U A,RG,a,6,1,g,c
 26,12/12/20,Richmond Generals 12U A,RG,a,6,3,g,e
-27,12/13/20,Loudoun Knights 12U A,LK,a,1,5,g,c
+27,12/13/20,Loudoun Knights 12U A Gold,LKG,a,1,5,g,c
 28,12/20/20,Piedmont Predators 12U A,PP,a,1,6,g,c
 29,1/2/21,Caps Academy 11U A Red,CAR,a,3,2,g,c
 30,1/9/21,Piedmont Predators 12U A,PP,h,0,5,g,c
-31,1/10/21,Loudoun Knights 12U A,LK,h,3,5,g,c
+31,1/10/21,Loudoun Knights 12U A Gold,LKG,h,3,5,g,c
 32,1/16/21,Pittsburgh Pens Elite Tier 1 12U,PPE,h,1,4,g,t2
 33,1/17/21,Pittsburgh Viper Stars 12U AA,PVS,a,2,5,g,t2
 34,1/17/21,Pittsburgh Predators 12U A,PP,h,3,3,g,t2
@@ -48,5 +48,7 @@ game,date,opp,abbrev,location,axscore,oppscore,goalie,league
 47,2/27/21,Caps Academy 12U A White,CAW,a,3,3,g,c
 48,2/28/21,Potomac Patriots 12U A,PP,h,4,2,g,c
 49,3/7/21,Tri-City Eagles 12U A,TCE,h,2,2,g,o
+50,3/12/21,Caps Academy 11U A Red,CAR,h,0,3,g,t4
+51,3/12/21,Loudoun Knights 12U A Black,LKB,a,6,4,g,t4
 
 
