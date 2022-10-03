@@ -4,7 +4,7 @@ game,opp,oppscore,shots
 3,Minnesota Hockey Club,6,34
 4,NXT LVL,7,30
 5,Belle Tire,0,21
-6,APHD1,23
+6,APHD,1,23
 7,Roc City Elite Red,0,7
 8,Roc City Elite Black,1,11
 9,Battery Hockey,1,11
@@ -14,3 +14,4 @@ game,opp,oppscore,shots
 13,Play Hockey Selects,0,14
 14,Griffons,2,22
 15,Northstar Elite,8,24
+16,Griffons,8,24
